@@ -1,1 +1,1 @@
-# diffusion_model
+# conditional-diffusion
